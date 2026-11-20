@@ -1,0 +1,7 @@
+# The source releases this repository builds wheels from: PyPI's own sdists,
+# each checked against the SHA-256 PyPI lists for it before it is built.
+#
+# name    version  targets                                   sha256 and url
+pyworld   0.3.5    darwin-arm64,linux-x86_64,linux-aarch64   1b93e53cddb67a0e4faa34d6cf919ac6c662feb1c8c0ed901d71b595ab396aa3 https://files.pythonhosted.org/packages/a5/0f/c78d631ffbb4c1aaebf80ff2bf9e791213b381dbe404f9ce1a3eb3672931/pyworld-0.3.5.tar.gz
+cymem     2.0.10   linux-aarch64                             f51700acfa1209b4a221dc892cca8030f4bc10d4c153dec098042f484c7f07a4 https://files.pythonhosted.org/packages/b6/62/eac45989f3d3296133f292f3097cb4c1f9d3ad3e5a85e79bbd2c7f96278f/cymem-2.0.10.tar.gz
+docopt    0.6.2    any                                       49b3a825280bd66b3aa83585ef59c4a8c82f2c8a522dbe754a8bc8d08c85c491 https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz

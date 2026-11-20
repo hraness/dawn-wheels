@@ -1,0 +1,5 @@
+# What the wheels are built with. numpy and setuptools are the versions DAWN's
+# voice runs with; Cython is the newest release at least two weeks old.
+cython==3.3.1
+numpy==2.5.4
+setuptools==80.10.2
